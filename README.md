@@ -5,4 +5,4 @@
 
 <p align="center">
   
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex241&layout=compact&hide=html" alt="alex241" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex241&layout=compact&hide=html" alt="alex241" /></p>
